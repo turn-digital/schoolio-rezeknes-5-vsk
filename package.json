@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo rezeknes5vsk.schooliowp.com > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo rezeknes5vsk.skl.lv > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
